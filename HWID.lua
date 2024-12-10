@@ -1,4 +1,5 @@
 return {
-    "",
-    -- Add more HWIDs here as needed
+    "sex",
+    "ANOTHER-HWID-HERE",
+    "YET-ANOTHER-HWID"
 }
