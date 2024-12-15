@@ -1,1 +1,3 @@
-print("화이리스트~~~")
+print("loding")
+wait(2)
+print("loding success")
