@@ -2,7 +2,7 @@ print("loading")
 task.wait(2)
 print("loading success")
 
-local lib = loadstring(game:HttpGet("https://raw.githubusercontent.com/nixul-no1/Nix-Scripts/main/main.lua"))()
+local lib = loadstring(game:HttpGet("https://raw.githubusercontent.com/dawid-scripts/UI-Libs/main/Vape.txt"))()
 
 local win = lib:Window("PREVIEW", Color3.fromRGB(44, 120, 224), Enum.KeyCode.RightControl)
 
